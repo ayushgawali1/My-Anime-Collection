@@ -1,0 +1,95 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    text-decoration-line: none;
+}
+
+.heading{
+    color: blueviolet;
+    background-color: black;
+    font-size: 62px;
+    font-weight: bolder;
+    text-align: center;
+    height: 76px;
+    margin: 0px;
+    padding: 2px;
+    font-family : Georgia, 'Times New Roman', Times, serif;
+}
+
+.line {
+    height: 400px;
+    display:flex;
+    justify-content: center;
+    font-family: cursive;
+}
+
+
+.border:hover{
+    border: 4px solid rgb(0, 0, 0);
+}
+
+a{
+    margin: 50px;
+}
+
+.block {
+    width: 200px;
+    height: 300px;
+    background-size: cover;
+    border: 4px solid #ffffff;
+    display: flex;
+    flex-direction: column-reverse;
+}
+
+.text{
+    height: 0px;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 550;
+    width: 200px;
+    margin-left: -2px;
+    margin-bottom: -5px;
+    color: black;
+}
+
+.block1 {
+    background-image: url("image/A_return_magic_should_be_special.png");
+}
+
+.block2 {
+    background-image: url("image/bird_face.png");
+}
+
+
+.block3 {
+    background-image: url("image/break_of_glutony.png");
+}
+
+.block4 {
+    background-image: url("image/Dead_mount.png");
+}
+
+.block5 {
+    background-image: url("image/Ragna_crimson.png");
+}
+
+.block6 {
+    background-image: url("image/The\ kingdom\ of\ rains.png");
+}
+
+
+.block7 {
+    background-image: url("image/juichen_kaisen.png");
+}
+
+.block8 {
+    background-image: url("image/dr_stone.png");
+}
+
+.block9{
+    background-image: url("image/shield.png");
+}
+
+.block10{
+    background-image: url("image/");
+}
